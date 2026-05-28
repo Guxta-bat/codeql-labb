@@ -84,9 +84,10 @@ Após o push da branch, foi aberto um Pull Request no GitHub, disparando automat
 
 # Evidências
 
-## Pipeline executando com sucesso
+## Pipeline executando com sucesso/ Executado
 
-Adicionar screenshot da pipeline aqui.
+<img width="1510" height="430" alt="Captura de tela 2026-05-28 163228" src="https://github.com/user-attachments/assets/aa3cdb2e-9e02-4b37-aef6-85ac268652a7" />
+
 
 ```markdown
 ![Pipeline](images/pipeline.png)
@@ -99,7 +100,9 @@ Adicionar screenshot da pipeline aqui.
 Adicionar screenshot do Pull Request aqui.
 
 ```markdown
-![Pull Request](images/pull-request.png)
+
+<img width="1518" height="344" alt="Captura de tela 2026-05-28 161411" src="https://github.com/user-attachments/assets/7e79eb25-87c3-4695-abed-a3561f46c0d8" />
+
 ```
 
 ---
@@ -111,9 +114,9 @@ Adicionar screenshot do Pull Request aqui.
 <img width="1518" height="344" alt="Captura de tela 2026-05-28 161411" src="https://github.com/user-attachments/assets/1b8e9be2-7957-43d8-967a-9a9c1e8d0bce" />
 
 
-Falhas por injeção sql e "fast fail" por uma mudança no código .py
+Falhas por injeção SQL e "fast fail" por uma mudança no código .py
 ```markdown
-![Actions](images/actions.png)
+
 ```
 
 ---
