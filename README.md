@@ -90,16 +90,12 @@ Após o push da branch, foi aberto um Pull Request no GitHub, disparando automat
 
 
 ```markdown
-![Pipeline](images/pipeline.png)
 ```
 
 ---
 
 ## Pull Request criado
 
-Adicionar screenshot do Pull Request aqui.
-
-```markdown
 
 <img width="1518" height="344" alt="Captura de tela 2026-05-28 161411" src="https://github.com/user-attachments/assets/7e79eb25-87c3-4695-abed-a3561f46c0d8" />
 
